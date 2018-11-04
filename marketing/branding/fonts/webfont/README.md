@@ -45,6 +45,6 @@ font-family: sintonybold;
 | Font-family           | Font              | Font-weight  |
 | ---------------|:----------:|:----------:|
 | sintonyregular       | Sintony         | Regular          |
-| sintonyrbold          | Sintony         | Bold               |
+| sintonybold          | Sintony         | Bold               |
 | miriamlibreregular | Miriam Libre | Regular          |
 | miriamlibrebold     | Miriam Libre | Bold               |
